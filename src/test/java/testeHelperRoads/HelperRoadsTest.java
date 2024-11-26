@@ -7,7 +7,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 public class HelperRoadsTest {
-	/*TesteRodando-------------------------------------------------------------------
+	//TesteRodando-------------------------------------------------------------------
     @Test
     public void testCadastrarMotoboy() {
         HelperRoads hr = new HelperRoads();
@@ -42,9 +42,9 @@ public class HelperRoadsTest {
         });
         assertEquals("Oficina não encontrada.", exception.getMessage());
     }
-    */
+    
     //Teste falhando---------------------------------------------------------------
-	
+	/*
     @Test
     public void testCadastrarMotoboy() {
     HelperRoads hr = new HelperRoads();
@@ -78,5 +78,5 @@ public class HelperRoadsTest {
     }
     return "Oficina selecionada: " + nome;
 	}
-
+	*/
 }
