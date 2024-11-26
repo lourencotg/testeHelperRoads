@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
-    <property name="sun.java.command" value="C:\Users\pc\AppData\Local\Temp\surefire2381886376087521506\surefirebooter-20241126154154059_3.jar C:\Users\pc\AppData\Local\Temp\surefire2381886376087521506 2024-11-26T15-41-53_932-jvmRun1 surefire-20241126154154059_1tmp surefire_0-20241126154154059_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\pc\AppData\Local\Temp\surefire3721727092357751176\surefirebooter-20241126154224882_3.jar C:\Users\pc\AppData\Local\Temp\surefire3721727092357751176 2024-11-26T15-42-24_759-jvmRun1 surefire-20241126154224882_1tmp surefire_0-20241126154224882_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\eclipse\workspace\testeHelperRoads\target\test-classes;C:\eclipse\workspace\testeHelperRoads\target\classes;C:\Users\pc\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\pc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\pc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\pc\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\pc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\pc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\pc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\pc\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\pc\AppData\Local\Temp\surefire2381886376087521506\surefirebooter-20241126154154059_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\pc\AppData\Local\Temp\surefire3721727092357751176\surefirebooter-20241126154224882_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23+37-2369"/>
@@ -60,7 +60,7 @@
     <property name="java.class.version" value="67.0"/>
   </properties>
   <testcase name="testSelecionarOficina" classname="testeHelperRoads.HelperRoadsTest" time="0.022"/>
-  <testcase name="testAdicionarOficina" classname="testeHelperRoads.HelperRoadsTest" time="0.001"/>
+  <testcase name="testAdicionarOficina" classname="testeHelperRoads.HelperRoadsTest" time="0.002"/>
   <testcase name="testSelecionarOficinaNaoExistente" classname="testeHelperRoads.HelperRoadsTest" time="0.002"/>
-  <testcase name="testCadastrarMotoboy" classname="testeHelperRoads.HelperRoadsTest" time="0.0"/>
+  <testcase name="testCadastrarMotoboy" classname="testeHelperRoads.HelperRoadsTest" time="0.001"/>
 </testsuite>
