@@ -14,7 +14,7 @@ public class HelperRoadsTest {
         hr.cadastrarMotoboy("João");
         List<String> motoboys = hr.listarMotoboys();
         assertEquals(1, motoboys.size());
-        assertTrue(motoboys.contains("João"));
+        assertTrue(motoboys.contains("Joãoaaa"));
     }
 
     @Test
